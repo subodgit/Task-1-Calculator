@@ -1,2 +1,2 @@
-# Task-1-Calculator
+# Task 1 - Calculator
 Web Development
